@@ -12,8 +12,6 @@ export const Description = styled.div`
   align-items: center;
   row-gap: 15px;
 `;
-// border-radius: 50%;
-//     overflow: hidden;
 export const Image = styled.img`
   border-radius: 50%;
   overflow: hidden;

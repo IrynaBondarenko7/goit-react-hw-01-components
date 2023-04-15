@@ -11,6 +11,11 @@ const theme = {
     grey: '#909497 ',
     statsColor: '#D4E6F1 ',
     icon: '#2980B9',
+    satstDoc: '#5DADE2',
+    satstPdf: '#A569BD',
+    statsMp3: '#E74C3C',
+    statsPsd: '#30C7D9',
+    statsDegault: '#2ECC71',
   },
 };
 
