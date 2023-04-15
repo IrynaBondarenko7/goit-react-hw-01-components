@@ -18,6 +18,8 @@ const theme = {
     statsDegault: '#2ECC71',
     online: '#2ECC71',
     offline: '#E74C3C ',
+    tableString: '#DEF1F1 ',
+    tableHeader: '#48e1da',
   },
 };
 
