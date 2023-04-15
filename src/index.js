@@ -16,6 +16,8 @@ const theme = {
     statsMp3: '#E74C3C',
     statsPsd: '#30C7D9',
     statsDegault: '#2ECC71',
+    online: '#2ECC71',
+    offline: '#E74C3C ',
   },
 };
 
